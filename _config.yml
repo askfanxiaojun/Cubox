@@ -1,3 +1,12 @@
 title: 我的个人博客
 description: 这是我的个人网站，用于分享学习和工作经验。
 theme: jekyll-theme-cayman
+nav:
+  - 首页: /
+  - 关于我: /about
+  - 联系我: /contact
+social:
+  - icon: fa-github
+    link: https://github.com/你的 GitHub 用户名
+  - icon: fa-twitter
+    link: https://twitter.com/你的 Twitter 用户名
